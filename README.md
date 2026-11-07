@@ -1,3 +1,5 @@
+> **工作技能统一入口已整理：** [工作技能区](https://github.com/Daisyhu668/Finish-work-early/tree/main/skills)。后续日常工作技能在主工作区维护，本仓库原有代码与资料保留。
+
 # vscode-codeskills
 
 Public Codex skills repository.

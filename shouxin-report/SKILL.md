@@ -7,6 +7,10 @@ metadata:
 
 # Shouxin Report
 
+> **维护入口已统一：** 请以 [主工作区授信报告技能](https://github.com/Daisyhu668/Finish-work-early/tree/main/skills/shouxin-report/SKILL.md) 为当前办理规范。下文保留迁移前版本供来源追溯；原模板、证据优先、缺项独立列示与真实风险结论按主工作区执行。
+
+先读取上述当前版本；不要根据下文历史“整体可控/正面信号”措辞强行作正面结论，也不要使用旧本机绝对路径。
+
 Use this skill for end-to-end small-business credit report work when there is a fixed template, especially `.xlsx` templates with protected structure, formulas, and standard disclosure sections.
 
 Use it for:
